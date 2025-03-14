@@ -1,0 +1,34 @@
+_repo: Highland-annals_75567
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dargan, Olive Tilford
+    aliases:
+    - Burke, Fielding
+    - Tilford, Olive
+    birthdate: 1869
+    deathdate: 1968
+    gutenberg_agent_id: '9123'
+    url: http://www.gutenberg.org/2009/agents/9123
+    wikipedia: https://en.wikipedia.org/wiki/Olive_Tilford_Dargan
+description: ''
+gutenberg_issued: '2025-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75567'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.300644&view=1up&seq=9
+pgterms:marc905: 20210228150649dargan
+pgterms:marc906: '1925'
+pgterms:marc907: en
+production_note: Emmanuel Ackerman, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Highland annals
+url: http://www.gutenberg.org/ebooks/75567
